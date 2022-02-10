@@ -20,3 +20,5 @@ To do that, enter the following command into a terminal:
 `crontab -e`
 
 `0 17 * * * python3 full-path/to/my/program.py`
+
+![screenshot](https://user-images.githubusercontent.com/9444085/153425537-6afd4717-8ee3-4a61-9854-3fef9564c5ef.png)
